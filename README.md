@@ -10,6 +10,14 @@
 - 任務目標：給定一篇文章和問題，找出文章中的正確答案。
 - 屬於 ODQA(Open Domain Question Answering)。
 - 必須使用TF-IDF 和 BM25 進行文章提取。
+## Final_Project
+- 比較ODQA的 generative 和 extractive 的結果表現。
+- 參考論文：[A Copy-Augmented Generative Model for Open-Domain Question Answering](https://aclanthology.org/2022.acl-short.47.pdf)
+  - Author: Shuang Liu, Dong Wang, Xiaoguang Li, Minghui Huang, Meizhen Ding
+  - Publish: ACL 2022
+  - add pointer network to fuss-in-decoder model
+- generative model:FiD-PGN, bert2BERT
+- extractive model: bert-base-uncased, 使用 TF-IDF 和 BM25 進行文章提取。
 ## AI CUP
 - [自然語言理解的解釋性資訊標記競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/26)
 - 機器學習模型的可解釋性（explainability）是人工智慧技術在落實與應用時，備受期待的項目。如果模型能夠在精準預測之餘，同時提供佐證其預測行為之依據，人類將有機會事先發現模型判斷的錯誤，大幅提高人類對模型之信賴，使得人工智慧技術更能落實到關鍵性的決策場域。
