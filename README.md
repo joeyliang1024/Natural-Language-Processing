@@ -35,7 +35,6 @@
         <td align="center">EM</td><td align="center">0.524</td><td align="center">0.538</td><td align="center">0.536</td><td align="center">0.547</td><td align="center">0.578</td><td align="center">0.312</td><td align="center">0.684</td>
     </tr>
 </table>
-
 - <table>
     <tr>
         <th align="center">score</th><th colspan="5" align="center">BM25</th><th>bert2BERT</th><th>FiD-PGN</th>
@@ -53,6 +52,7 @@
         <td align="center">EM</td><td align="center">0.524</td><td align="center">0.538</td><td align="center">0.536</td><td align="center">0.547</td><td align="center">0.578</td><td align="center">0.312</td><td align="center">0.684</td>
     </tr>
 </table>
+
 ## AI CUP
 - [自然語言理解的解釋性資訊標記競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/26)
 - 機器學習模型的可解釋性（explainability）是人工智慧技術在落實與應用時，備受期待的項目。如果模型能夠在精準預測之餘，同時提供佐證其預測行為之依據，人類將有機會事先發現模型判斷的錯誤，大幅提高人類對模型之信賴，使得人工智慧技術更能落實到關鍵性的決策場域。
