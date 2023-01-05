@@ -18,18 +18,21 @@
   - add pointer network to fuss-in-decoder model
 - generative model:FiD-PGN, bert2BERT
 - extractive model: bert-base-uncased, 使用 TF-IDF 和 BM25 進行文章提取。
--<table>
+- <table>
     <tr>
         <th align="center">score</th><th colspan="5" align="center">TF-IDF</th><th>bert2BERT</th><th>FiD-PGN</th>
     </tr>
     <tr>
-        <td align="center">k</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td>
+        <td align="center">Top k</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">5</td><td align="center">25</td>
     </tr>
     <tr>
         <td align="center">LCS</td><td align="center">123</td><td align="center">123</td><td align="center">123</td><td align="center">123</td><td align="center">123</td><td align="center">123</td><td align="center">123</td>
     </tr>
     <tr>
         <td align="center">F1</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td>
+    </tr>
+    <tr>
+        <td align="center">EM</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td>
     </tr>
 </table>
 ## AI CUP
