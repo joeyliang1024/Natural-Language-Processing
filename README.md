@@ -20,7 +20,7 @@
 - extractive model: bert-base-uncased, 使用 TF-IDF 和 BM25 進行文章提取。
 -<table>
     <tr>
-        <th>score</th><th colspan="5">TF-IDF</th><th>bert2BERT</th><th>FiD-PGN</th>
+        <th>score</th><th colspan="5" align="center">TF-IDF</th><th>bert2BERT</th><th>FiD-PGN</th>
     </tr>
     <tr>
         <td>k</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>5</td><td>25</td>
