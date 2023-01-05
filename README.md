@@ -35,6 +35,7 @@
         <td align="center">EM</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td><td align="center">92</td>
     </tr>
 </table>
+
 ## AI CUP
 ## AI CUP
 - [自然語言理解的解釋性資訊標記競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/26)
