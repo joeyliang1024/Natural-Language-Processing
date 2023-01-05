@@ -18,6 +18,12 @@
   - add pointer network to fuss-in-decoder model
 - generative model:FiD-PGN, bert2BERT
 - extractive model: bert-base-uncased, 使用 TF-IDF 和 BM25 進行文章提取。
+- |  score |                   TF-IDF                   | bert2BERT | FiD-PGN |
+  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |   -----   |  ----   |
+  | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  |   单元格   |  单元格  |
+  | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  |   单元格   |  单元格  |
+  | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  |   单元格   |  单元格  |
+## AI CUP
 ## AI CUP
 - [自然語言理解的解釋性資訊標記競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/26)
 - 機器學習模型的可解釋性（explainability）是人工智慧技術在落實與應用時，備受期待的項目。如果模型能夠在精準預測之餘，同時提供佐證其預測行為之依據，人類將有機會事先發現模型判斷的錯誤，大幅提高人類對模型之信賴，使得人工智慧技術更能落實到關鍵性的決策場域。
