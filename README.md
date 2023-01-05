@@ -18,12 +18,25 @@
   - add pointer network to fuss-in-decoder model
 - generative model:FiD-PGN, bert2BERT
 - extractive model: bert-base-uncased, 使用 TF-IDF 和 BM25 進行文章提取。
-- |  score |                   TF-IDF                   | bert2BERT | FiD-PGN |
-  |  ----  |  ----------------------------------------- |   -----   |  ----   |
-  |   k    |   1    |   2    |   3    |   4    |   5    |     5     |   25    |
-  |  LCS   | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  |   单元格   |  单元格  |
-  |  F1    | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  |   单元格   |  单元格  |
-  |  EM    | 单元格  | 单元格  | 单元格  | 单元格  | 单元格  |   单元格   |  单元格  |
+-<table>
+    <tr>
+        <th>班级</th><th>课程</th><th>平均分</th>
+    </tr>
+    <tr>
+        <td rowspan="3">1班</td><td>语文</td><td>95</td>
+    </tr>
+    <tr>
+        <td>数学</td><td>96</td>
+    </tr>
+    <tr>
+        <td>英语</td><td>92</td>
+    </tr>
+</table>
+
+作者：图南
+链接：https://www.zhihu.com/question/50267650/answer/1584380105
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ## AI CUP
 ## AI CUP
 - [自然語言理解的解釋性資訊標記競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/26)
