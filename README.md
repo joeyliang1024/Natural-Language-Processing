@@ -20,23 +20,18 @@
 - extractive model: bert-base-uncased, 使用 TF-IDF 和 BM25 進行文章提取。
 -<table>
     <tr>
-        <th>班级</th><th>课程</th><th>平均分</th>
+        <th>score</th><th rowspan="5">TF-IDF</th><th>bert2BERT</th><th>FiD-PGN</th>
     </tr>
     <tr>
-        <td rowspan="3">1班</td><td>语文</td><td>95</td>
+        <td>k</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>5</td><td>25</td>
     </tr>
     <tr>
-        <td>数学</td><td>96</td>
+        <td>LCS</td><td>123</td><td>123</td><td>123</td><td>123</td><td>123</td><td>123</td><td>123</td>
     </tr>
     <tr>
-        <td>英语</td><td>92</td>
+        <td>F1</td><td>92</td><td>92</td><td>92</td><td>92</td><td>92</td><td>92</td><td>92</td>
     </tr>
 </table>
-
-作者：图南
-链接：https://www.zhihu.com/question/50267650/answer/1584380105
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ## AI CUP
 ## AI CUP
 - [自然語言理解的解釋性資訊標記競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/26)
