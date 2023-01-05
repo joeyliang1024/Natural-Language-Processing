@@ -1,0 +1,8 @@
+放棄使用FiD-PGN(T5): 運算資源不足
+
+作業二最好的模型作法：BM25 + bert-base-cased 
+                  f1-score: 0.6051 (data/Assignment2_test_answer.txt)
+                  
+改使用 bert-base-cased 加上 transformer 的 decoder 後生成模型
+
+
