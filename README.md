@@ -35,7 +35,7 @@
         <td align="center">EM</td><td align="center">0.524</td><td align="center">0.538</td><td align="center">0.536</td><td align="center">0.547</td><td align="center">0.578</td><td align="center">0.312</td><td align="center">0.684</td>
     </tr>
 </table>
-- <table>
+<table>
     <tr>
         <th align="center">score</th><th colspan="5" align="center">BM25</th><th>bert2BERT</th><th>FiD-PGN</th>
     </tr>
